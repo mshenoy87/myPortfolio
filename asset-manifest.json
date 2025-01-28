@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/MeghasPortfolio/static/css/main.bfa6c54a.css",
-    "main.js": "/MeghasPortfolio/static/js/main.30428048.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/MeghasPortfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/MeghasPortfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/MeghasPortfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/Froggi.png": "/MeghasPortfolio/static/media/Froggi.9bf5a1950d8d63a25691.png",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/MeghasPortfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/MeghasPortfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/MeghasPortfolio/index.html",
-    "main.bfa6c54a.css.map": "/MeghasPortfolio/static/css/main.bfa6c54a.css.map",
-    "main.30428048.js.map": "/MeghasPortfolio/static/js/main.30428048.js.map"
+    "main.css": "/myPortfolio/static/css/main.9f6b5327.css",
+    "main.js": "/myPortfolio/static/js/main.0c13b837.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/myPortfolio/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/myPortfolio/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/myPortfolio/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/Froggi.png": "/myPortfolio/static/media/Froggi.9bf5a1950d8d63a25691.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/myPortfolio/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/myPortfolio/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/myPortfolio/index.html",
+    "main.9f6b5327.css.map": "/myPortfolio/static/css/main.9f6b5327.css.map",
+    "main.0c13b837.js.map": "/myPortfolio/static/js/main.0c13b837.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfa6c54a.css",
-    "static/js/main.30428048.js"
+    "static/css/main.9f6b5327.css",
+    "static/js/main.0c13b837.js"
   ]
 }
