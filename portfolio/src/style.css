@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #EEE2DF;
+}
+
+.white {
+    color: #EEE2DF;
+}
+
+body {
+    color: #EEE2DF;
+    background-color: #DEC1DB;
+    background-image: 
+    radial-gradient(at 9% 89%, #5B61B2 0px, transparent 50%),
+    radial-gradient(at 14% 29%, #FCF6BD 0px, transparent 50%),
+    radial-gradient(at 72% 6%, #6DA0E1 0px, transparent 50%),
+    radial-gradient(at 5% 80%, #D0F4DE 0px, transparent 50%),
+    radial-gradient(at 5% 6%, #FF99C8 0px, transparent 50%),
+    radial-gradient(at 20% 98%, #2F80E4 0px, transparent 50%);
+    max-height: 99%;
+    
+}
+
+.container {
+    height: 100vh;
+}
+
+.glass-container {
+    display: block;
+    max-width: 80vw;
+    height: 90vh;
+    margin-top: 4%;
+    margin-bottom: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(0, 0, 0, 0.56);
+    padding: 50px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.20);
+    overflow-x: hidden;
+}
+
+.main {
+   height: 100%;
+   overflow-y: inherit;
+}
+
+
+.parent {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent[data-isOpen="true"] {
+    width: fit-content;
+}
+
+.child[data-isOpen="false"] {
+    width: 0px;
+    visibility: hidden;
+}
+
+.child {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+  
